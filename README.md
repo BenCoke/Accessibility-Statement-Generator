@@ -1,6 +1,8 @@
 # Accessibility-Statement-Generator
 This web application will ask a series of questions about the accessibility of an application, then produce an accessibility statement.
 
+Made with the Digital Scotaland Design System Pattern Library.
+
 Prototype uses localStorage and client side scripts. Server is just to deliver pages.
 
 Need these to run:
